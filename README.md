@@ -1,4 +1,1 @@
-# 2022-kermack-mckendrick-single-cohort
-# 2022-kermack-mckendrick-single-cohort
-# 2022-kermack-mckendrick-single-cohort
-# 2022-kermack-mckendrick-single-cohort
+This is the stochastic simulation code associated with our preprint entitled "A Kermack-McKendrick model with age of infection starting from a single or multiple cohorts of infected patients" by Jacques Demongeot, Quentin Griette, Pierre Magal and Yvon Maday.
