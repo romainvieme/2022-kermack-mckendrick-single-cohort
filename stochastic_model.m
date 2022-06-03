@@ -1,3 +1,7 @@
+% Please cite the following preprint (available at https://doi.org/10.48550/arXiv.2205.15634) if you use this code:
+% A Kermack-McKendrick model with age of infection starting from a single or multiple cohorts of infected patients  
+% by Jacques Demongeot, Quentin Griette, Yvon Maday, Pierre Magal
+% arXiv e-print number 2205.15634. 2022
 function [Time, IFlux] = stochastic_model(T, I, NS, tau, a0, beta0,beta01,AI,dt)
 	t=0;
 
